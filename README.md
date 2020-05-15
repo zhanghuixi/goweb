@@ -1,5 +1,5 @@
 # 2020 go开发路线图
-![RoadMap](https://note.youdao.com/favicon.ico)
+![RoadMap](https://github.com/zhanghuixi/goweb/blob/master/golang-2020-roadmap.png)
 ## GoWeb
 - gin框架搭建，开发基本功能
 
